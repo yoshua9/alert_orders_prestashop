@@ -9,7 +9,7 @@ class alert_duplicity_orders extends Module {
 		$this->name = 'alert_duplicity_orders';
 		$this->tab = 'administration';
 		$this->version = '0.0.1';
-		$this->author = 'Krack Zapaterías';
+		$this->author = 'Yoshua Lino';
 		$this->need_instance = 0;
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_); 
 		$this->bootstrap = true;
